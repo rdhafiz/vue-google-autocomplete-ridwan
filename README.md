@@ -4,7 +4,7 @@ When you start a search, you can  find the information you’re looking for fast
 using search predictions by 
 [Google Location API](https://developers.google.com/places/web-service/autocomplete).
 Search predictions are possible search terms you can  use that are related to the 
-terms you’re typing and what other people are searching for.\
+terms you’re typing and what other people are searching for.
 
 
 # Getting started
