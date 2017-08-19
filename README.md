@@ -18,7 +18,7 @@ git clone https://github.com/RidwanulHafiz/vue-google-autocomplete-ridwan.git
 
 
 #### Quick Start with NPM
-* Install with [NPM](https://www.npmjs.com/package/vue-google-autocomplete-ridwan) ```npm install google-autocomplete-ridwan```
+* Install with [NPM](https://www.npmjs.com/package/vue-google-autocomplete-ridwan) ```npm install vue-google-autocomplete-ridwan```
 * [Get an API Key from the Google API Console](https://developers.google.com/maps/documentation/javascript/get-api-key)
 * Include Google location script with Google API key
 

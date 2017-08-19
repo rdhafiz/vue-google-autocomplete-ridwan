@@ -1,6 +1,6 @@
 {
   "name": "vue-google-autocomplete-ridwan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "When you start a search, you can find the information you’re looking for faster using search predictions. Search predictions are possible search terms you can use that are related to the terms you’re typing and what other people are searching for.",
   "main": "index.js",
   "scripts": {
