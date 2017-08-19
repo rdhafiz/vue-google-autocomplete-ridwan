@@ -4,14 +4,21 @@ When you start a search, you can  find the information you’re looking for fast
 using search predictions by 
 [Google Location API](https://developers.google.com/places/web-service/autocomplete).
 Search predictions are possible search terms you can  use that are related to the 
-terms you’re typing and what other people are searching for.\
+terms you’re typing and what other people are searching for.
 
 
 # Getting started
 
 ### Installation
 
-* Install with NPM ```npm install google-autocomplete-ridwan```
+#### Quick Start with GIT with [Documentation](https://github.com/RidwanulHafiz/vue-google-autocomplete-ridwan)
+```
+git clone https://github.com/RidwanulHafiz/vue-google-autocomplete-ridwan.git
+```
+
+
+#### Quick Start with NPM
+* Install with [NPM](https://www.npmjs.com/package/vue-google-autocomplete-ridwan) ```npm install google-autocomplete-ridwan```
 * [Get an API Key from the Google API Console](https://developers.google.com/maps/documentation/javascript/get-api-key)
 * Include Google location script with Google API key
 
